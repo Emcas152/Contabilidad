@@ -1,0 +1,422 @@
+[
+    {
+        "label": "Apps > Calendar",
+        "url": "Apps.Calendar.php"
+    },
+    {
+        "label": "Apps > Chat",
+        "url": "Apps.Chat.php"
+    },
+    {
+        "label": "Apps > Contacts",
+        "url": "Apps.Contacts.php"
+    },
+    {
+        "label": "Apps > Mailbox",
+        "url": "Apps.Mailbox.php"
+    },
+    {
+        "label": "Apps > Tasks",
+        "url": "Apps.Tasks.php"
+    },
+    {
+        "label": "Blocks > Cta",
+        "url": "Blocks.Cta.php"
+    },
+    {
+        "label": "Blocks > Details",
+        "url": "Blocks.Details.php"
+    },
+    {
+        "label": "Blocks > Gallery",
+        "url": "Blocks.Gallery.php"
+    },
+    {
+        "label": "Blocks > Images",
+        "url": "Blocks.Images.php"
+    },
+    {
+        "label": "Blocks > List",
+        "url": "Blocks.List.php"
+    },
+    {
+        "label": "Blocks > Stats",
+        "url": "Blocks.Stats.php"
+    },
+    {
+        "label": "Blocks > Steps",
+        "url": "Blocks.Steps.php"
+    },
+    {
+        "label": "Blocks > Tabular Data",
+        "url": "Blocks.TabularData.php"
+    },
+    {
+        "label": "Blocks > Thumbnails",
+        "url": "Blocks.Thumbnails.php"
+    },
+    {
+        "label": "Blocks > Users",
+        "url": "Blocks.Users.php"
+    },
+    {
+        "label": "Dashboards > Visual",
+        "url": "Dashboards.Visual.php"
+    },
+    {
+        "label": "Dashboards > Analytic",
+        "url": "Dashboards.Analytic.php"
+    },
+    {
+        "label": "Dashboards > Default",
+        "url": "Dashboards.Default.php"
+    },
+    {
+        "label": "Interface > Components > Accordion",
+        "url": "Interface.Components.Accordion.php"
+    },
+    {
+        "label": "Interface > Components > Alerts",
+        "url": "Interface.Components.Alerts.php"
+    },
+    {
+        "label": "Interface > Components > Badge",
+        "url": "Interface.Components.Badge.php"
+    },
+    {
+        "label": "Interface > Components > Breadcrumb",
+        "url": "Interface.Components.Breadcrumb.php"
+    },
+    {
+        "label": "Interface > Components > ButtonGroup",
+        "url": "Interface.Components.ButtonGroup.php"
+    },
+    {
+        "label": "Interface > Components > Buttons",
+        "url": "Interface.Components.Buttons.php"
+    },
+    {
+        "label": "Interface > Components > Card",
+        "url": "Interface.Components.Card.php"
+    },
+    {
+        "label": "Interface > Components > Close",
+        "url": "Interface.Components.Close.php"
+    },
+    {
+        "label": "Interface > Components > Collapse",
+        "url": "Interface.Components.Collapse.php"
+    },
+    {
+        "label": "Interface > Components > Dropdowns",
+        "url": "Interface.Components.Dropdowns.php"
+    },
+    {
+        "label": "Interface > Components > ListGroup",
+        "url": "Interface.Components.ListGroup.php"
+    },
+    {
+        "label": "Interface > Components > Modal",
+        "url": "Interface.Components.Modal.php"
+    },
+    {
+        "label": "Interface > Components > Navs",
+        "url": "Interface.Components.Navs.php"
+    },
+    {
+        "label": "Interface > Components > Offcanvas",
+        "url": "Interface.Components.Offcanvas.php"
+    },
+    {
+        "label": "Interface > Components > Pagination",
+        "url": "Interface.Components.Pagination.php"
+    },
+    {
+        "label": "Interface > Components > Popovers",
+        "url": "Interface.Components.Popovers.php"
+    },
+    {
+        "label": "Interface > Components > Progress",
+        "url": "Interface.Components.Progress.php"
+    },
+    {
+        "label": "Interface > Components > Scrollspy",
+        "url": "Interface.Components.Scrollspy.php"
+    },
+    {
+        "label": "Interface > Components > Spinners",
+        "url": "Interface.Components.Spinners.php"
+    },
+    {
+        "label": "Interface > Components > Toasts",
+        "url": "Interface.Components.Toasts.php"
+    },
+    {
+        "label": "Interface > Components > Tooltips",
+        "url": "Interface.Components.Tooltips.php"
+    },
+    {
+        "label": "Interface > Content > Images",
+        "url": "Interface.Content.Images.php"
+    },
+    {
+        "label": "Interface > Content > Menu > MobileOnly",
+        "url": "Interface.Content.Menu.MobileOnly.php"
+    },
+    {
+        "label": "Interface > Content > Menu > Sidebar",
+        "url": "Interface.Content.Menu.Sidebar.php"
+    },
+    {
+        "label": "Interface > Content > Menu > VerticalNoSemiHidden",
+        "url": "Interface.Content.Menu.VerticalNoSemiHidden.php"
+    },
+    {
+        "label": "Interface > Content > Menu > VerticalSemiHidden",
+        "url": "Interface.Content.Menu.VerticalSemiHidden.php"
+    },
+    {
+        "label": "Interface > Content > Menu > VerticalStandard",
+        "url": "Interface.Content.Menu.VerticalStandard.php"
+    },
+    {
+        "label": "Interface > Content > Icons > BootstrapIcons",
+        "url": "Interface.Content.Icons.BootstrapIcons.php"
+    },
+    {
+        "label": "Interface > Content > Icons > CSIcons",
+        "url": "Interface.Content.CSIcons.php"
+    },
+    {
+        "label": "Interface > Content > Tables",
+        "url": "Interface.Content.Tables.php"
+    },
+    {
+        "label": "Interface > Content > Typography",
+        "url": "Interface.Content.Typography.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Autocomplete",
+        "url": "Interface.Forms.Controls.Autocomplete.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Checkbox-Radio",
+        "url": "Interface.Forms.Controls.CheckboxRadio.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > DatePicker",
+        "url": "Interface.Forms.Controls.DatePicker.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Dropzone",
+        "url": "Interface.Forms.Controls.Dropzone.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Editor",
+        "url": "Interface.Forms.Controls.Editor.php"
+    },
+    {
+        "label": "Interface > Forms.Controls > InputSpinner",
+        "url": "Interface.Forms.Controls.InputSpinner.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Rating",
+        "url": "Interface.Forms.Controls.Rating.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Select2",
+        "url": "Interface.Forms.Controls.Select2.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Slider",
+        "url": "Interface.Forms.Controls.Slider.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Tags",
+        "url": "Interface.Forms.Controls.Tags.php"
+    },
+    {
+        "label": "Interface > Forms > Controls > Timepicker",
+        "url": "Interface.Forms.Controls.TimePicker.php"
+    },
+    {
+        "label": "Interface > Forms > Genericforms",
+        "url": "Interface.Forms.GenericForms.php"
+    },
+    {
+        "label": "Interface > Forms > Inputmask",
+        "url": "Interface.Forms.InputMask.php"
+    },
+    {
+        "label": "Interface > Forms > InputGroup",
+        "url": "Interface.Forms.InputGroup.php"
+    },
+    {
+        "label": "Interface > Forms > Layouts",
+        "url": "Interface.Forms.Layouts.php"
+    },
+    {
+        "label": "Interface > Forms > Validation",
+        "url": "Interface.Forms.Validation.php"
+    },
+    {
+        "label": "Interface > Forms > Wizard",
+        "url": "Interface.Forms.Wizard.php"
+    },
+    {
+        "label": "Interface > Plugins > Carousel",
+        "url": "Interface.Plugins.Carousel.php"
+    },
+    {
+        "label": "Interface > Plugins > Charts",
+        "url": "Interface.Plugins.Charts.php"
+    },
+    {
+        "label": "Interface > Plugins > Clamp",
+        "url": "Interface.Plugins.Clamp.php"
+    },
+    {
+        "label": "Interface > Plugins > Context Menu",
+        "url": "Interface.Plugins.ContextMenu.php"
+    },
+    {
+        "label": "Interface > Plugins > Datatables > Boxed Variations",
+        "url": "Interface.Plugins.Datatables.BoxedVariations.php"
+    },
+    {
+        "label": "Interface > Plugins > Datatables > Editable Boxed",
+        "url": "Interface.Plugins.Datatables.EditableBoxed.php"
+    },
+    {
+        "label": "Interface > Plugins > Datatables > Editable Rows",
+        "url": "Interface.Plugins.Datatables.EditableRows.php"
+    },
+    {
+        "label": "Interface > Plugins > Datatables > Editable Rows Slim",
+        "url": "Interface.Plugins.Datatables.EditableRowsSlim.php"
+    },
+    {
+        "label": "Interface > Plugins > Datatables > Rows Ajax",
+        "url": "Interface.Plugins.Datatables.RowsAjax.php"
+    },
+    {
+        "label": "Interface > Plugins > Datatables > Rows Server Side",
+        "url": "Interface.Plugins.Datatables.RowsServerSide.php"
+    },
+    {
+        "label": "Interface > Plugins > Lightbox",
+        "url": "Interface.Plugins.Lightbox.php"
+    },
+    {
+        "label": "Interface > Plugins > List",
+        "url": "Interface.Plugins.List.php"
+    },
+    {
+        "label": "Interface > Plugins > Maps",
+        "url": "Interface.Plugins.Maps.php"
+    },
+    {
+        "label": "Interface > Plugins > Notify",
+        "url": "Interface.Plugins.Notify.php"
+    },
+    {
+        "label": "Interface > Plugins > Player",
+        "url": "Interface.Plugins.Player.php"
+    },
+    {
+        "label": "Interface > Plugins > Progress",
+        "url": "Interface.Plugins.Progress.php"
+    },
+    {
+        "label": "Interface > Plugins > Scrollbar",
+        "url": "Interface.Plugins.Scrollbar.php"
+    },
+    {
+        "label": "Interface > Plugins > Shortcuts",
+        "url": "Interface.Plugins.Shortcuts.php"
+    },
+    {
+        "label": "Interface > Plugins > Sortable",
+        "url": "Interface.Plugins.Sortable.php"
+    },
+    {
+        "label": "Pages > Authentication > ForgotPassword",
+        "url": "Pages.Authentication.ForgotPassword.php"
+    },
+    {
+        "label": "Pages > Authentication > Login",
+        "url": "Pages.Authentication.Login.php"
+    },
+    {
+        "label": "Pages > Authentication > Register",
+        "url": "Pages.Authentication.Register.php"
+    },
+    {
+        "label": "Pages > Authentication > ResetPassword",
+        "url": "Pages.Authentication.ResetPassword.php"
+    },
+    {
+        "label": "Pages > Blog > Detail",
+        "url": "Pages.Blog.Detail.php"
+    },
+    {
+        "label": "Pages > Blog > Grid",
+        "url": "Pages.Blog.Grid.php"
+    },
+    {
+        "label": "Pages > Blog > Home",
+        "url": "Pages.Blog.Home.php"
+    },
+    {
+        "label": "Pages > Blog > List",
+        "url": "Pages.Blog.List.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Coming Soon",
+        "url": "Pages.Miscellaneous.ComingSoon.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Empty",
+        "url": "Pages.Miscellaneous.Empty.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Error",
+        "url": "Pages.Miscellaneous.Error.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Faq",
+        "url": "Pages.Miscellaneous.Faq.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Mailing",
+        "url": "Pages.Miscellaneous.Mailing.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Knowledge Base",
+        "url": "Pages.Miscellaneous.KnowledgeBase.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Pricing",
+        "url": "Pages.Miscellaneous.Pricing.php"
+    },
+    {
+        "label": "Pages > Miscellaneous > Search",
+        "url": "Pages.Miscellaneous.Search.php"
+    },
+    {
+        "label": "Pages > Portfolio > Detail",
+        "url": "Pages.Portfolio.Detail.php"
+    },
+    {
+        "label": "Pages > Portfolio > Home",
+        "url": "Pages.Portfolio.Home.php"
+    },
+    {
+        "label": "Pages > Profile > Settings",
+        "url": "Pages.Profile.Settings.php"
+    },
+    {
+        "label": "Pages > Profile > Standard",
+        "url": "Pages.Profile.Standard.php"
+    }
+]
